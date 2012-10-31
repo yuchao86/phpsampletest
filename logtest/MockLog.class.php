@@ -6,7 +6,7 @@ class MockLog
 {
 
 
-  public function MockLog($file_path)
+  public function MockLog()
   {
     // code...
 
